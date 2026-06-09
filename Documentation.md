@@ -944,7 +944,8 @@ void drawMsg() {
 - Animationen / Soundeffekte bei Gewinn
 - LED Effekte
 - Online Multiplayer Leaderboard
-- Benutzerverwaltung + UI damit man ohne hebel spielen kann
+- Benutzerverwaltung
+- gute UI damit man ohne Hebel spielen kann
 - Gewinnraten Analyse
 
 
