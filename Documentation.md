@@ -928,7 +928,7 @@ void drawMsg() {
 ***Es war geplant, für das Hosting der Webseite(n) eine Azure VM zu verwende, welche aber über längere Zeit mehrere Probleme verursacht hat, weswegen wir uns auf eine andere Lösung umentschieden haben.***
 ### 3d-Modellierung
 > 3d-Gehäuse für Elektronik + Display
-<img width="1515" height="1024" alt="image" src="https://github.com/user-attachments/assets/f70d8958-2a35-401c-aa4b-5c1d166b3961" />
+<img width="736" height="512" alt="image" src="https://github.com/user-attachments/assets/f70d8958-2a35-401c-aa4b-5c1d166b3961" />
 
 
 # Anforderungen
