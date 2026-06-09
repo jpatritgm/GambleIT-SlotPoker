@@ -922,6 +922,8 @@ void drawMsg() {
   tft.print(lastMsg);
 }
 ```
+> [!IMPORTANT]
+> Für die Entwicklung des Codes wurde teilweise KI zur Hilfe genommen
 ### Virtualisierung
 ***Es war geplant, für das Hosting der Webseite(n) eine Azure VM zu verwende, welche aber über längere Zeit mehrere Probleme verursacht hat, weswegen wir uns auf eine andere Lösung umentschieden haben.***
 
