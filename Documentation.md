@@ -1,15 +1,14 @@
 # Documentation for the SlotPoker Game
 
 Inhalt dieser Dokumentation:
-1. [Idee und Projektstart](idee-und-projektstart)
+1. [Idee und Projektstart](#idee-und-projektstart)
 2. [Planung und Recherche](#planung-und-recherche)
 3. [Arbeitsunterteilung](#arbeitsunterteilung)
 4. [Anforderungen](#anforderungen)
-5. [Abgedeckte Kriterien](#abgedeckte-kriterien)
-6. [Projektzeitplan](#projektzeitplan)
-7. [Probleme und Lösungen](#probleme-und-lösungen)
-8. [Ressourcen](#ressourcen)
-9. [Recherche](#recherche)
+5. [Projektzeitplan](#projektzeitplan)
+6. [Probleme und Lösungen](#probleme-und-lösungen)
+7. [Ressourcen](#ressourcen)
+8. [Recherche](#recherche)
 
 # Idee und Projektstart
 ### Erste Ideen
