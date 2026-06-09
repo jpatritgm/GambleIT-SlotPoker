@@ -3,14 +3,13 @@
 Inhalt dieser Dokumentation:
 1. [Idee und Projektstart](idee-und-projektstart)
 2. [Planung und Recherche](#planung-und-recherche)
-3. ff
-4. ff
-5. [Anforderungen](#anforderungen)
-6. [Abgedeckte Kriterien](#abgedeckte-kriterien)
-7. [Projektzeitplan](#projektzeitplan)
-8. [Probleme und Lösungen](#probleme-und-lösungen)
-9. [Ressourcen](#ressourcen)
-10. [Recherche](#recherche)
+3. [Arbeitsunterteilung](#arbeitsunterteilung)
+4. [Anforderungen](#anforderungen)
+5. [Abgedeckte Kriterien](#abgedeckte-kriterien)
+6. [Projektzeitplan](#projektzeitplan)
+7. [Probleme und Lösungen](#probleme-und-lösungen)
+8. [Ressourcen](#ressourcen)
+9. [Recherche](#recherche)
 
 # Idee und Projektstart
 ### Erste Ideen
@@ -21,6 +20,13 @@ Digitale Slot Maschine mit einem Pull Lever, um eine "Runde" zu starten und mit 
 # Planung und Recherche
 ***Vor dem Arbeitsstart haben wir uns erstmals angesehen, welche Komponenten wir für eine gute Umsetzung dieses Projektes brauchen und welche Technologien am besten geeignet sind. Wir haben uns schließlich entschieden, das Spiel auf einer normalen HTML+CSS Website umzusetzen und für das Backend Python zu verwenden. Außerdem kam es zu der Entscheidung, ein LCD Display (2.8 inch) für den HW-Teil einzubauen, auf welchem später eine minimalistische Version des Spiels ausführbar sein soll.***
 
+# Arbeitsunterteilung
+### Web
+***Es wurde eine Website erstellt, auf welcher das Spiel und ein Dashboard mit Gewinn/Verlust, Credits/Kontostand vorhanden ist. Diese wird mithilfe von Arduino Code online, sowie auch auf dem Display gehostet.***
+### HW/LCD-Display
+***Es wurde ein LCD Touch-Display (ESP32E) als HW verwendet, worauf man eine minimale Version unseres Spiels spielen kann, welches der selben Logik, wie dem Spiel auf der Website entspricht.***
+### Virtualisierung
+***Es war geplant, für das Hosting der Webseite(n) eine Azure VM zu verwende, welche aber über längere Zeit mehrere Probleme verursacht hat, weswegen wir uns auf eine andere Lösung umentschieden haben.***
 
 
 # Anforderungen
