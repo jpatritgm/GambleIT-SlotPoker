@@ -926,6 +926,8 @@ void drawMsg() {
 > Für die Entwicklung des Codes wurde teilweise KI zur Hilfe genommen
 ### Virtualisierung
 ***Es war geplant, für das Hosting der Webseite(n) eine Azure VM zu verwende, welche aber über längere Zeit mehrere Probleme verursacht hat, weswegen wir uns auf eine andere Lösung umentschieden haben.***
+### 3d-Modellierung
+<img width="3029" height="2048" alt="image" src="https://github.com/user-attachments/assets/f70d8958-2a35-401c-aa4b-5c1d166b3961" />
 
 
 # Anforderungen
